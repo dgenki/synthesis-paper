@@ -3,7 +3,7 @@ This is a repository for the paper Do Synthesis Centers Synthesize?  A semantic 
 
 Data
 
-Files "Table 1 .csv" to "Table 8 .csv" hold the records for analysis, in batches of 50,000 papers. Each row is a paper. Column id is an identifier for each paper, and columns T1 to T152 identify the 152 topics that were selected for analysis. The numeric values show the proportion of the paper identified with each topic.
+Files "Table 1 .csv" to "Table 8 .csv" hold the records for analysis, in batches of 50,000 papers. Each row is a paper. Column id is an identifier for each paper, and columns T1 to T152 identify the 152 topics that were selected for analysis. The numeric values show the proportion of the paper identified with each topic. The file "distMatrix1.csv" contains a squared matrix with the cosine distance between topics 1 to 152.
 
 Script 
 
