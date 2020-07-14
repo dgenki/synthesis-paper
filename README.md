@@ -1,5 +1,5 @@
 # synthesis-paper
-This is a repository for the paper Do Synthesis Centers Synthesize?  A semantic analysis of topical diversity in research, published in Research Policy, forthcoming. You will find here the tables used for the calculation of RAO-STIRLING and Uzzi's mean diversity and top 10% diversity. You will also find the script to calculate Uzzi's measures. A script for calculating RAO-STIRLING diversity can be found here:
+This is a repository for the paper Do Synthesis Centers Synthesize?  A semantic analysis of topical diversity in research, published in Research Policy, forthcoming. You will find here the tables used for the calculation of RAO-STIRLING and Uzzi's mean diversity and top 10% diversity. You will also find the script to calculate Uzzi's measures. A script for calculating RAO-STIRLING diversity can be found here: https://github.com/dgenki/interdisciplinary-research
 
 Data
 
